@@ -30,15 +30,37 @@ The project creates clear customer segments that can help in:
 - understanding spending behavior  
 - identifying valuable customers  
 
+## Key Insights
+
+From the clustering results, a few clear patterns can be observed:
+
+- A group of customers with high income and high spending, representing potential premium customers  
+- Customers with high income but low spending, indicating an opportunity for targeted marketing  
+- A segment with low income and high spending, which may reflect impulsive buying behavior  
+- Lower income and low spending customers, representing a more conservative segment  
+
+These insights show how businesses can treat each customer group differently instead of using a single strategy for everyone.
+
 ## Visual Results
 
 Elbow Method used to determine the number of clusters:
 
+<br>
+
 <img src="images/elbow.png" width="700"/>
+
+The elbow point in the graph indicates the optimal number of clusters. After this point, adding more clusters does not significantly improve the model.
+
+<br><br>
 
 Customer segmentation based on income and spending:
 
+<br>
+
 <img src="images/cluster.png" width="700"/>
+
+Each color represents a different customer group. These clusters help in clearly identifying patterns in customer behavior and separating customers based on their spending habits.
+
 ## Notes
 
-This project is a simple demonstration of how machine learning can be used to find patterns in data and turn them into useful insights.
+This project is a simple demonstration of how machine learning can be used to find patterns in data and turn them into useful insights. The focus is on understanding the results and their practical value rather than just applying the algorithm.
