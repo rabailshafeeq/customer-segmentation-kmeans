@@ -34,11 +34,11 @@ The project creates clear customer segments that can help in:
 
 Elbow Method used to determine the number of clusters:
 
-![Elbow Method](images/elbow.png)
+<img src="images/elbow.png" width="700"/>
 
 Customer segmentation based on income and spending:
 
-![Customer Segmentation](images/cluster.png)
+<img src="images/cluster.png" width="700"/>
 ## Notes
 
 This project is a simple demonstration of how machine learning can be used to find patterns in data and turn them into useful insights.
